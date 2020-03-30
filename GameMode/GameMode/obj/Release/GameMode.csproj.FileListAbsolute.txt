@@ -1,0 +1,6 @@
+C:\Users\Tyom\source\repos\GameMode\GameMode\bin\Release\GameMode.exe.config
+C:\Users\Tyom\source\repos\GameMode\GameMode\bin\Release\GameMode.exe
+C:\Users\Tyom\source\repos\GameMode\GameMode\bin\Release\GameMode.pdb
+C:\Users\Tyom\source\repos\GameMode\GameMode\obj\Release\GameMode.exe
+C:\Users\Tyom\source\repos\GameMode\GameMode\obj\Release\GameMode.pdb
+C:\Users\Tyom\source\repos\GameMode\GameMode\obj\Release\GameMode.csprojAssemblyReference.cache

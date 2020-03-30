@@ -1,0 +1,6 @@
+C:\Users\Tyom\source\repos\GameMode\GameMode\bin\Debug\GameMode.exe.config
+C:\Users\Tyom\source\repos\GameMode\GameMode\bin\Debug\GameMode.exe
+C:\Users\Tyom\source\repos\GameMode\GameMode\bin\Debug\GameMode.pdb
+C:\Users\Tyom\source\repos\GameMode\GameMode\obj\Debug\GameMode.csprojAssemblyReference.cache
+C:\Users\Tyom\source\repos\GameMode\GameMode\obj\Debug\GameMode.exe
+C:\Users\Tyom\source\repos\GameMode\GameMode\obj\Debug\GameMode.pdb
